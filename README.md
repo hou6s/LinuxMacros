@@ -3,10 +3,10 @@
 This repository provides scripts to create shortcuts for quickly navigating to specific directories in Linux.  
   
 To get started, clone the repository using the command:  
-    `git clone https://github.com/hou6s/LinuxMacros`   
+    `cd /home/$USER && git clone https://github.com/hou6s/LinuxMacros`   
       
 and navigate to the cloned directory with:  
-    `cd directory-shortcut-setup`  
+    `cd ~/LinuxMacros`  
       
 Next, move the scripts to a directory in your PATH by executing:   
     `sudo mv go.sh /usr/local/bin/go`   
