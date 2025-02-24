@@ -3,7 +3,7 @@
 This repository provides scripts to create shortcuts for quickly navigating to specific directories in Linux.  
   
 To get started, clone the repository using the command:  
-    `git clone https://github.com/yourusername/directory-shortcut-setup.git`   
+    `git clone https://github.com/hou6s/LinuxMacros`   
 and navigate to the cloned directory with:  
     `cd directory-shortcut-setup`  
 Next, move the scripts to a directory in your PATH by executing:   
